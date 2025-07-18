@@ -3,8 +3,7 @@ package basic;
 public class Helloworld {
 
 	public static void main(String[] args) {
-		System.out.println("SIDE BRANCH: THIS IS THE SIDE BRANCH!");
-
+		System.out.println("THIS IS A COMBINED VERSION FROM MAIN AND TEST!");
 	}
 
 }
